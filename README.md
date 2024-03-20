@@ -38,9 +38,13 @@ Languages (in browser): `miniTidal` `punctual` `hydra` `CineCer0` `LocoMotion` `
 
 ## P5Live
 
+- site: https://www.teddavis.org/p5live/
+- github:
+- docs:
 
+P5Live is a collaborative live coding editor for P5.js (but also includes Hydra) developed by Ted Davis. Through the "cocoding" functionality you can edit code together.
 
-## Hy5Live
+Languages (in browser): `p5.js` `Hydra` `p5.sound`
 
 # Useful Tools
 
