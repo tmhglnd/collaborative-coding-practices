@@ -145,15 +145,19 @@ OS: `mac` `windows`
 
 Below is a list of repertoire from people collaborating on live coding via these various tools. Suggestions are welcome!
 
-[Sabrina Verhage & Flor de Fuego - Live at Livecodera 8m](https://www.youtube.com/live/iY9Vc8LpMFQ?si=BWR1m3NZNcf9zkfs&t=3526)
+[**Sabrina Verhage & Flor de Fuego** - Live at Livecodera 8m](https://www.youtube.com/live/iY9Vc8LpMFQ?si=BWR1m3NZNcf9zkfs&t=3526)
 	- Using: Flok, Mercury, Hydra
 
-[Damage Such - Live at Sala Taro](https://youtu.be/Ykhjx7ZkaEQ?si=UbrMjEvV58BQozb4&t=1336)
-	- Using: Flok, Mercury
+[**Damage Such** - Live at Sala Taro](https://youtu.be/Ykhjx7ZkaEQ?si=UbrMjEvV58BQozb4&t=1336)
+	- Using: Flok, Mercury, Animatron
 
-[Benoît and the Mandelbrots - Live at TEDx](https://youtu.be/Ix2b_qFYfAA?si=q128_ddemHYy7z9X&t=238)
+[**Benoît and the Mandelbrots** - Live at TEDx](https://youtu.be/Ix2b_qFYfAA?si=q128_ddemHYy7z9X&t=238)
 	- Using: Supercollider
 
-[Bad Circulation - Live at Corridor of Light Algorave](https://youtu.be/AlhEc2N8VII?si=ysRyQamkiIIGlW3w&t=838)
+[**Bad Circulation** - Live at Corridor of Light Algorave](https://youtu.be/AlhEc2N8VII?si=ysRyQamkiIIGlW3w&t=838)
 	- Using: Troop, TidalCycles
 
+[**iTypeMusic** - Live Coding Techno Vibes](https://youtu.be/aB1mdxLCR7c?si=cA7Z5FSpl7LpuVHX&t=766)
+	- Using: Flok, Mercury, Hydra
+
+[Enter your suggestion here](https://github.com/tmhglnd/collaborative-coding-practices/issues)
