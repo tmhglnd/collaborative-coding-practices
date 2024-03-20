@@ -1,19 +1,19 @@
-# Collaborative Coding Practices
+# 👩🏻‍💻🧑🏼‍💻👩🏽‍💻👨🏾‍💻 Collaborative Coding Practices
 
-A repository with suggestions, repertoire, tools and exercises for collaborating coders
+A repository with suggestions, repertoire, tools and exercises for collaborating coders.
 
-# Table of Content
+# 📖 Table of Content
 
-- [Excersises](#excersises)
-- [Collaborative Editors](#collaborative-editors)
-- [Useful Tools](#useful-tools)
-- [Repertoire](#repertoire)
+- [Excersises](#-excersises)
+- [Collaborative Editors](#-collaborative-editors)
+- [Useful Tools](#-useful-tools)
+- [Repertoire](#-repertoire)
 
-# Excersises
+# 🕹 Excersises
 
 Coming soon...
 
-# Collaborative Editors
+# 📟 Collaborative Editors
 
 ## Flok
 
@@ -23,9 +23,9 @@ Coming soon...
 
 Flok is an online collaborative coding editor developed by Damián Silvani (a.k.a Munshkr). The editor allows you to join with multiple people by accessing the same URL. You can add various panels for different languages. Some run directly in the browser, others are send to the terminal via OSC.
 
-Languages (in browser): `hydra` `strudel` `mercury`
+Languages (in browser): `Hydra` `Strudel` `Mercury`
 
-Languages (with repl): `foxdot` `mercury` `sardine` `sclang` `tidal`
+Languages (with repl): `Foxdot` `Mercury` `Sardine` `SClang` `TidalCycles`
 
 ## Estuary
 
@@ -34,19 +34,29 @@ Languages (with repl): `foxdot` `mercury` `sardine` `sclang` `tidal`
 
 Estuary is a platform for collaboration and learning through live coding. It enables you to experiment with sound, music, and visuals in a web browser. Estuary brings together a curated collection of live coding languages in a single environment, without the requirement to install software (other than a web browser), and with support for networked ensembles (whether in the same room or distributed around the world). 
 
-Languages (in browser): `miniTidal` `punctual` `hydra` `CineCer0` `LocoMotion` `Seis8s` `TimeNot` `TransMit`
+Languages (in browser): `MiniTidal` `Punctual` `Hydra` `CineCer0` `LocoMotion` `Seis8s` `TimeNot` `TransMit`
+
+## Troop
+
+- site: https://github.com/Qirky/Troop/releases
+- github: https://github.com/Qirky/Troop
+- docs: https://github.com/Qirky/Troop?tab=readme-ov-file#getting-started
+
+Troop is a real-time collaborative tool that enables group live coding within the same document across multiple computers. Hypothetically Troop can talk to any interpreter that can take input as a string from the command line but it is already configured to work with live coding languages FoxDot, TidalCycles, and SuperCollider. It was developed by Ryan Kirkbride (a.k.a. Quirky).
+
+Languages (locally): `Foxdot` `TidalCycles` `SuperCollider` `SonicPi`
 
 ## P5Live
 
 - site: https://www.teddavis.org/p5live/
-- github:
+- github: 
 - docs:
 
 P5Live is a collaborative live coding editor for P5.js (but also includes Hydra) developed by Ted Davis. Through the "cocoding" functionality you can edit code together.
 
 Languages (in browser): `p5.js` `Hydra` `p5.sound`
 
-# Useful Tools
+# 🛠 Useful Tools
 
 ## Brave Browser
 
@@ -131,7 +141,19 @@ The NDI Virtual Input is especially useful as virtual webcam device.
 
 OS: `mac` `windows`
 
-# Repertoire
+# 👾 Repertoire
 
 Below is a list of repertoire from people collaborating on live coding via these various tools. Suggestions are welcome!
+
+[Sabrina Verhage & Flor de Fuego - Live at Livecodera 8m](https://www.youtube.com/live/iY9Vc8LpMFQ?si=BWR1m3NZNcf9zkfs&t=3526)
+	- Using: Flok, Mercury, Hydra
+
+[Damage Such - Live at Sala Taro](https://youtu.be/Ykhjx7ZkaEQ?si=UbrMjEvV58BQozb4&t=1336)
+	- Using: Flok, Mercury
+
+[Benoît and the Mandelbrots - Live at TEDx](https://youtu.be/Ix2b_qFYfAA?si=q128_ddemHYy7z9X&t=238)
+	- Using: Supercollider
+
+[Bad Circulation - Live at Corridor of Light Algorave](https://youtu.be/AlhEc2N8VII?si=ysRyQamkiIIGlW3w&t=838)
+	- Using: Troop, TidalCycles
 
