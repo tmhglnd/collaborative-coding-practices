@@ -12,7 +12,7 @@ A repository with suggestions, repertoire, tools and exercises for collaborating
 # 🕹 Excercises
 
 - Excercise 1
-	- Something here...
+	- work in pairs in the same instrument
 - Excercise 2
 	- Something here...
 
