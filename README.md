@@ -12,7 +12,7 @@ A repository with suggestions, repertoire, tools and exercises for collaborating
 # 🕹 Excercises
 
 - Excercise 1
-	- Something here...
+	- Try changing eachothers code at random and unexpected moments
 - Excercise 2
 	- Something here...
 
