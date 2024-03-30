@@ -1,6 +1,6 @@
 # 👩🏻‍💻🧑🏼‍💻👩🏽‍💻👨🏾‍💻 Collaborative Coding Practices
 
-A repository with suggestions, repertoire, tools and exercises for collaborating coders.
+A repository with suggestions, repertoire, tools and exercises for collaborating coders that use live coding to make music and/or visuals.
 
 # 📖 Table of Content
 
