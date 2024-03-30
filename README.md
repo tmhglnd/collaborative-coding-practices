@@ -11,7 +11,10 @@ A repository with suggestions, repertoire, tools and exercises for collaborating
 
 # 🕹 Excersises
 
-
+- Excercise 1
+	- Something here...
+- Excercise 2
+	- Something here...
 
 # 📟 Collaborative Editors
 
