@@ -9,7 +9,7 @@ A repository with suggestions, repertoire, tools and exercises for collaborating
 - [Repertoire](#-repertoire)
 - [Useful Tools](#-useful-tools)
 
-# 🕹 Excersises
+# 🕹 Excercises
 
 
 
