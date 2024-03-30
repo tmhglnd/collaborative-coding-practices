@@ -13,8 +13,9 @@ A repository with suggestions, repertoire, tools and exercises for collaborating
 
 - Excercise 1
 	- work in pairs in the same instrument
+
 - Excercise 2
-	- Something here...
+	- Try changing eachothers code at random and unexpected moments
 
 # 📟 Collaborative Editors
 
