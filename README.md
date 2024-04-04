@@ -11,11 +11,21 @@ A repository with suggestions, repertoire, tools and exercises for collaborating
 
 # 🕹 Excercises
 
-- Excercise 1
-	- work in pairs in the same instrument
+## Excercise 1
 
-- Excercise 2
-	- Try changing eachothers code at random and unexpected moments
+Code only 1 instrument and work on that code together, slowly changing the instrument to each others taste. Try not to remove each others ideas but build upon them. Accept decisions from the other even if you don't immediately like them.
+
+## Excercise 2
+
+Code only 2 instruments and work only on your instrument individually. Listening/reading what the other is doing and adapting your code based on that. Divide the arrangement in a way that makes sense for you, for example one person can work on a rhythmic/percussive instrument while the other makes a bass/melodic instrument.
+
+## Excercise 3
+
+
+
+## Excercise 4
+
+Try changing eachothers code at random and unexpected moments
 
 # 📟 Collaborative Editors
 
