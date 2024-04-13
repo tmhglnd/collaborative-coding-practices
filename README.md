@@ -4,7 +4,7 @@ A repository with suggestions, repertoire, tools and exercises for collaborating
 
 # 📖 Table of Content
 
-- [Exersises](#-exersises)
+- [Exercises](#-exercises)
 - [Collaborative Editors](#-collaborative-editors)
 - [Repertoire](#-repertoire)
 - [Useful Tools](#-useful-tools)
