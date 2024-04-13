@@ -13,19 +13,19 @@ A repository with suggestions, repertoire, tools and exercises for collaborating
 
 ## Excercise 1
 
-Code only 1 instrument and work on that code together, slowly changing the instrument to each others taste. Try not to remove each others ideas but build upon them. Accept decisions from the other even if you don't immediately like them.
+Start by coding only 1 instrument/sound and work on that code together, slowly changing the instrument to both your tastes. Don't remove each others ideas but build upon them. Accept decisions from the other even if you don't immediately like them.
 
 ## Excercise 2
 
-Code only 2 instruments and work only on your instrument individually. Listening/reading what the other is doing and adapting your code based on that. Divide the arrangement in a way that makes sense for you, for example one person can work on a rhythmic/percussive instrument while the other makes a bass/melodic instrument.
+Code only 2 instruments/sounds and work only on one instrument individually (so in parallel). Listen/read what the other is doing and adapt your code based on that. Divide the arrangement in a way that makes sense for both of you, for example one person can work on a rhythmic/percussive sound while the other makes a bass or melodic instrument.
 
 ## Excercise 3
 
-
+Continue with the 2 instruments from above. It is quite common in live coding to evaluate after every little change. For this exercise one of you will be allowed to evaluate small changes in the instrument, while at the same time the other is make a lot of changes to the other instrument but wait till the best moment to evaluate introducing some radical changes in the composition. It can help to code things as a comment to avoid things being evaluated before they are ready.
 
 ## Excercise 4
 
-Try changing eachothers code at random and unexpected moments
+In this exercise one of you two will be the *"initiator"*, and the other will be the *"adjuster"*. The *initiator* will code new ideas and evaluate. After it is evaluated and you hear the result the *adjuster* will change the value or function of the thing that was just coded to something else, introducing some slight variation on the original idea.
 
 # 📟 Collaborative Editors
 
