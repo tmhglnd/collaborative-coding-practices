@@ -1,6 +1,6 @@
 # 👩🏻‍💻🧑🏼‍💻👩🏽‍💻👨🏾‍💻 Collaborative Coding Practices
 
-A repository with suggestions, repertoire, tools and exercises for collaborating coders that use live coding to make music and/or visuals.
+A repository with suggestions, repertoire, tools and excercises for collaborating coders that use live coding to make music. Part of the *Collaborative Coding Music in Flok* workshop by Lina Bautista and Timo Hoogland presented first at [/* VIU */ Festival 2024](https://toplap.cat/posts/viu-2024/).
 
 # 📖 Table of Content
 
@@ -25,7 +25,7 @@ Continue with the 2 instruments from above. It is quite common in live coding to
 
 ## Excercise 4
 
-In this exercise one of you two will be the *"initiator"*, and the other will be the *"adjuster"*. The *initiator* will code new ideas and evaluate. After it is evaluated and you hear the result the *adjuster* will change the value or function of the thing that was just coded to something else, introducing some slight variation on the original idea.
+In this excercise one of you two will be the *"initiator"*, and the other will be the *"adjuster"*. The *initiator* will code new ideas and evaluate. After it is evaluated and you hear the result the *adjuster* will change the value or function of the thing that was just coded to something else, introducing some slight variation on the original idea.
 
 # 📟 Collaborative Editors
 
