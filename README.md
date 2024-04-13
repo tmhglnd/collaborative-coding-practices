@@ -1,31 +1,31 @@
 # 👩🏻‍💻🧑🏼‍💻👩🏽‍💻👨🏾‍💻 Collaborative Coding Practices
 
-A repository with suggestions, repertoire, tools and excercises for collaborating coders that use live coding to make music. Part of the *Collaborative Coding Music in Flok* workshop by Lina Bautista and Timo Hoogland presented first at [/* VIU */ Festival 2024](https://toplap.cat/posts/viu-2024/).
+A repository with suggestions, repertoire, tools and exercises for collaborating coders that use live coding to make music. Part of the *Collaborative Coding Music in Flok* workshop by Lina Bautista and Timo Hoogland presented first at [/* VIU */ Festival 2024](https://toplap.cat/posts/viu-2024/).
 
 # 📖 Table of Content
 
-- [Excersises](#-excersises)
+- [Exersises](#-exersises)
 - [Collaborative Editors](#-collaborative-editors)
 - [Repertoire](#-repertoire)
 - [Useful Tools](#-useful-tools)
 
-# 🕹 Excercises
+# 🕹 Exercises
 
-## Excercise 1
+## Exercise 1
 
 Start by coding only 1 instrument/sound and work on that code together, slowly changing the instrument to both your tastes. Don't remove each others ideas but build upon them. Accept decisions from the other even if you don't immediately like them.
 
-## Excercise 2
+## Exercise 2
 
 Code only 2 instruments/sounds and work only on one instrument individually (so in parallel). Listen/read what the other is doing and adapt your code based on that. Divide the arrangement in a way that makes sense for both of you, for example one person can work on a rhythmic/percussive sound while the other makes a bass or melodic instrument.
 
-## Excercise 3
+## Exercise 3
 
 Continue with the 2 instruments from above. It is quite common in live coding to evaluate after every little change. For this exercise one of you will be allowed to evaluate small changes in the instrument, while at the same time the other is make a lot of changes to the other instrument but wait till the best moment to evaluate introducing some radical changes in the composition. It can help to code things as a comment to avoid things being evaluated before they are ready.
 
-## Excercise 4
+## Exercise 4
 
-In this excercise one of you two will be the *"initiator"*, and the other will be the *"adjuster"*. The *initiator* will code new ideas and evaluate. After it is evaluated and you hear the result the *adjuster* will change the value or function of the thing that was just coded to something else, introducing some slight variation on the original idea.
+In this exercise one of you two will be the *"initiator"*, and the other will be the *"adjuster"*. The *initiator* will code new ideas and evaluate. After it is evaluated and you hear the result the *adjuster* will change the value or function of the thing that was just coded to something else, introducing some slight variation on the original idea.
 
 # 📟 Collaborative Editors
 
