@@ -4,20 +4,34 @@ A repository with suggestions, repertoire, tools and exercises for collaborating
 
 # 📖 Table of Content
 
+- [Setup](#-setup)
 - [Exercises](#-exercises)
 - [Collaborative Editors](#-collaborative-editors)
 - [Repertoire](#-repertoire)
-- [Useful Tools](#-useful-tools)
+- [Useful Tools](#-other-useful-tools)
+
+# 📟 Setup
+
+First we setup the collaborative coding environment. The editor you choose in the future can depend on personal preference and the language you like to code with, but for this workshop we use [**Flok**](#flok). Flok allows for using Foxdot, Mercury, Sardine, Strudel, SuperCollider and Tidal.
+
+1. Go to [https://flok.cc](https://flok.cc)
+2. Choose a username
+3. Share the url with your collaborator
+4. In the top-left menu choose the language you want to use
+	- When using a language that isn't browser based you have to setup the `REPL` via the terminal to connect your editors output with your interpreter and sound engine.
+	- Click `REPLs` in the top-right corner. 
+	- Copy the command and paste/run it in the terminal (you need to have `npm`/`npx` installed from [NodeJS](https://nodejs.org/en))
+5. 
 
 # 🕹 Exercises
 
 ## Exercise 1
 
-Start by coding only 1 instrument/sound and work on that code together, slowly changing the instrument to both your tastes. Don't remove each others ideas but build upon them. Accept decisions from the other even if you don't immediately like them.
+Code only 2 instruments/sounds and only work one instrument individually (so in parallel). Listen/read what the other is doing and adapt your code based on that. Divide the arrangement in a way that makes sense for both of you, for example one person can work on a rhythmic/percussive sound while the other makes a bass or melodic instrument.
 
 ## Exercise 2
 
-Code only 2 instruments/sounds and work only on one instrument individually (so in parallel). Listen/read what the other is doing and adapt your code based on that. Divide the arrangement in a way that makes sense for both of you, for example one person can work on a rhythmic/percussive sound while the other makes a bass or melodic instrument.
+Start by coding only 1 instrument/sound and work on that code together, slowly changing the instrument to both your tastes. Don't remove each others ideas but build upon them. Accept decisions from the other even if you don't immediately like them.
 
 ## Exercise 3
 
@@ -27,7 +41,7 @@ Continue with the 2 instruments from above. It is quite common in live coding to
 
 In this exercise one of you two will be the *"initiator"*, and the other will be the *"adjuster"*. The *initiator* will code new ideas and evaluate. After it is evaluated and you hear the result the *adjuster* will change the value or function of the thing that was just coded to something else, introducing some slight variation on the original idea.
 
-# 📟 Collaborative Editors
+# 🛰 Collaborative Editors
 
 ## Flok
 
@@ -90,7 +104,7 @@ Below is a list of repertoire from people collaborating on live coding via these
 
 [Enter your suggestion here](https://github.com/tmhglnd/collaborative-coding-practices/issues)
 
-# 🛠 Useful Tools
+# 🛠 Other Useful Tools
 
 ## Brave Browser
 
