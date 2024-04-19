@@ -1,6 +1,6 @@
 # 👩🏻‍💻🧑🏼‍💻👩🏽‍💻👨🏾‍💻 Collaborative Coding Practices
 
-A repository with suggestions, repertoire, tools and exercises for collaborating coders that use live coding to make music. Part of the *Collaborative Coding Music in Flok* workshop by Lina Bautista and Timo Hoogland presented first at [/* VIU */ Festival 2024](https://toplap.cat/posts/viu-2024/).
+A repository with suggestions, repertoire, tools and exercises for collaborating coders that use live coding to make music. Part of the *Collaborative Coding Music in Flok* workshop by Lina Bautista and Timo Hoogland first presented at [/* VIU */ Festival 2024](https://toplap.cat/posts/viu-2024/).
 
 # 📖 Table of Content
 
@@ -18,10 +18,12 @@ First we setup the collaborative coding environment. The editor you choose in th
 2. Choose a username
 3. Share the url with your collaborator
 4. In the top-left menu choose the language you want to use
-	- When using a language that isn't browser based you have to setup the `REPL` via the terminal to connect your editors output with your interpreter and sound engine.
+5. If you choose `Mercury-web` or `Strudel` you are ready to go!
+5. If you use a language that is not browser based (eg. Tidal, SC, Foxdot) you have to setup the `REPL` via the terminal to connect your editors output with your interpreter and sound engine.
 	- Click `REPLs` in the top-right corner. 
 	- Copy the command and paste/run it in the terminal (you need to have `npm`/`npx` installed from [NodeJS](https://nodejs.org/en))
-5. 
+	- Start your environment and check if the code is coming in through the OSC port.
+	- [More info on using the REPL's](https://github.com/munshkr/flok?tab=readme-ov-file#supported-repl-targets)
 
 # 🕹 Exercises
 
