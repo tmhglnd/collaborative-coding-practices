@@ -33,15 +33,15 @@ Code only 2 instruments/sounds and only work one instrument individually (so in 
 
 ## Exercise 2
 
-Start by coding only 1 instrument/sound and work on that code together, slowly changing the instrument to both your tastes. Don't remove each others ideas but build upon them. Accept decisions from the other even if you don't immediately like them.
+In this exercise one of you two will be the *"initiator"* of a new instrument/sound, and the other will be the *"adjuster"*. The *initiator* will code new ideas and evaluate. After it is evaluated and you hear the result the *adjuster* will change the value or function of the thing that was just coded to something else, introducing some slight variation on the original idea.
 
 ## Exercise 3
 
-Continue with the instruments from above. It is quite common in live coding to evaluate after every little change. For this exercise one of you will be allowed to evaluate small changes in the instrument, while at the same time the other is make a lot of changes to the other instrument but wait till the best moment to evaluate introducing some radical changes in the composition. It can help to code things as a comment to avoid things being evaluated before they are ready.
+Create a new instrument/sound from scratch and work on that code together, slowly changing the instrument to both your tastes. Don't remove each others ideas but build upon them. Accept decisions from the other even if you don't immediately like them.
 
 ## Exercise 4
 
-In this exercise one of you two will be the *"initiator"*, and the other will be the *"adjuster"*. The *initiator* will code new ideas and evaluate. After it is evaluated and you hear the result the *adjuster* will change the value or function of the thing that was just coded to something else, introducing some slight variation on the original idea.
+Continue with the instruments from above. It is quite common in live coding to evaluate after every little change. For this exercise one of you will be allowed to evaluate small changes in the instrument, while at the same time the other is make a lot of changes to the other instrument but wait till the best moment to evaluate introducing some radical changes in the composition. It can help to code things as a comment to avoid things being evaluated before they are ready.
 
 # 🛰 Collaborative Editors
 
