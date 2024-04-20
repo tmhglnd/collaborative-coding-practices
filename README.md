@@ -37,7 +37,7 @@ Start by coding only 1 instrument/sound and work on that code together, slowly c
 
 ## Exercise 3
 
-Continue with the 2 instruments from above. It is quite common in live coding to evaluate after every little change. For this exercise one of you will be allowed to evaluate small changes in the instrument, while at the same time the other is make a lot of changes to the other instrument but wait till the best moment to evaluate introducing some radical changes in the composition. It can help to code things as a comment to avoid things being evaluated before they are ready.
+Continue with the instruments from above. It is quite common in live coding to evaluate after every little change. For this exercise one of you will be allowed to evaluate small changes in the instrument, while at the same time the other is make a lot of changes to the other instrument but wait till the best moment to evaluate introducing some radical changes in the composition. It can help to code things as a comment to avoid things being evaluated before they are ready.
 
 ## Exercise 4
 
@@ -104,7 +104,19 @@ Below is a list of repertoire from people collaborating on live coding via these
 [**iTypeMusic** - Live Coding Techno Vibes](https://youtu.be/aB1mdxLCR7c?si=cA7Z5FSpl7LpuVHX&t=766)
 	- Using: Flok, Mercury, Hydra
 
+[**CrashServer** - Live at TOPLAP 20](https://youtu.be/UZ4fAR3yk1c?si=KQpTz5V2DdJInxD-)
+	- Using: Troop, Foxdot
+
+[**Epiploke** - Live at Solstice Stream 2023](https://youtu.be/fMd1CwLwMj4?si=bO77HpSdDP-9kSj8&t=257)
+	- Using: Flok, Tidal
+
 [Enter your suggestion here](https://github.com/tmhglnd/collaborative-coding-practices/issues)
+
+# ✨ Inspiration from other performances
+
+- [**Overmono** - Live at Boilerroom](https://youtu.be/xgJBhezlMoE?si=3nSXC_0DBkCmd0mY&t=2053)
+
+- [**Moderat** - Live at KEXP](https://youtu.be/HVkVq_qs7FM?si=6eQEzd4yqg6T3QwL&t=1036)
 
 # 🛠 Other Useful Tools
 
