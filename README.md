@@ -110,7 +110,15 @@ Below is a list of repertoire from people collaborating on live coding via these
 [**Epiploke** - Live at Solstice Stream 2023](https://youtu.be/fMd1CwLwMj4?si=bO77HpSdDP-9kSj8&t=257)
 	- Using: Flok, Tidal
 
+[**Estuary WeekendJam** - Over more than 160 jamsessions in Estuary streamed weekly in Eulerroom](https://www.youtube.com/playlist?list=PLMBIpibV-wQLvP7jitjnV9E61DfV11235)
+
 [Enter your suggestion here](https://github.com/tmhglnd/collaborative-coding-practices/issues)
+
+# 📚 Further Reading
+
+Below is a list of reading material that touches on the subject of collaborative coding and remote performances.
+
+[**Remote Sets** - Blogpost on TOPLAP.org by GEIKHA 芸下☭](https://blog.toplap.org/2024/05/27/remote-sets-livecoding-in-its-purest-form/)
 
 # ✨ Inspiration from other performances
 
