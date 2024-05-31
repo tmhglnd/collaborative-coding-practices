@@ -89,36 +89,37 @@ Languages (in browser): `p5.js` `Hydra` `p5.sound`
 
 Below is a list of repertoire from people collaborating on live coding via these various tools. Suggestions are welcome!
 
-[**Sabrina Verhage & Flor de Fuego** - Live at Livecodera 8m](https://www.youtube.com/live/iY9Vc8LpMFQ?si=BWR1m3NZNcf9zkfs&t=3526)
+- [**Sabrina Verhage & Flor de Fuego** - Live at Livecodera 8m](https://www.youtube.com/live/iY9Vc8LpMFQ?si=BWR1m3NZNcf9zkfs&t=3526)
 	- Using: Flok, Mercury, Hydra
 
-[**Damage Such** - Live at Sala Taro](https://youtu.be/Ykhjx7ZkaEQ?si=UbrMjEvV58BQozb4&t=1336)
+- [**Damage Such** - Live at Sala Taro](https://youtu.be/Ykhjx7ZkaEQ?si=UbrMjEvV58BQozb4&t=1336)
 	- Using: Flok, Mercury, Animatron
 
-[**Benoît and the Mandelbrots** - Live at TEDx](https://youtu.be/Ix2b_qFYfAA?si=q128_ddemHYy7z9X&t=238)
+- [**Benoît and the Mandelbrots** - Live at TEDx](https://youtu.be/Ix2b_qFYfAA?si=q128_ddemHYy7z9X&t=238)
 	- Using: Supercollider
 
-[**Bad Circulation** - Live at Corridor of Light Algorave](https://youtu.be/AlhEc2N8VII?si=ysRyQamkiIIGlW3w&t=838)
+- [**Bad Circulation** - Live at Corridor of Light Algorave](https://youtu.be/AlhEc2N8VII?si=ysRyQamkiIIGlW3w&t=838)
 	- Using: Troop, TidalCycles
 
-[**iTypeMusic** - Live Coding Techno Vibes](https://youtu.be/aB1mdxLCR7c?si=cA7Z5FSpl7LpuVHX&t=766)
+- [**iTypeMusic** - Live Coding Techno Vibes](https://youtu.be/aB1mdxLCR7c?si=cA7Z5FSpl7LpuVHX&t=766)
 	- Using: Flok, Mercury, Hydra
 
-[**CrashServer** - Live at TOPLAP 20](https://youtu.be/UZ4fAR3yk1c?si=KQpTz5V2DdJInxD-)
+- [**CrashServer** - Live at TOPLAP 20](https://youtu.be/UZ4fAR3yk1c?si=KQpTz5V2DdJInxD-)
 	- Using: Troop, Foxdot
 
-[**Epiploke** - Live at Solstice Stream 2023](https://youtu.be/fMd1CwLwMj4?si=bO77HpSdDP-9kSj8&t=257)
+- [**Epiploke** - Live at Solstice Stream 2023](https://youtu.be/fMd1CwLwMj4?si=bO77HpSdDP-9kSj8&t=257)
 	- Using: Flok, Tidal
 
-[**Estuary WeekendJam** - Over more than 160 jamsessions in Estuary streamed weekly in Eulerroom](https://www.youtube.com/playlist?list=PLMBIpibV-wQLvP7jitjnV9E61DfV11235)
+- [**Estuary WeekendJam** - Over more than 160 jamsessions in Estuary streamed weekly in Eulerroom](https://www.youtube.com/playlist?list=PLMBIpibV-wQLvP7jitjnV9E61DfV11235)
+	- Using: Estuary, MiniTidal, Punctual
 
-[Enter your suggestion here](https://github.com/tmhglnd/collaborative-coding-practices/issues)
+- [Enter your suggestion here](https://github.com/tmhglnd/collaborative-coding-practices/issues)
 
 # 📚 Further Reading
 
 Below is a list of reading material that touches on the subject of collaborative coding and remote performances.
 
-[**Remote Sets** - Blogpost on TOPLAP.org by GEIKHA 芸下☭](https://blog.toplap.org/2024/05/27/remote-sets-livecoding-in-its-purest-form/)
+- [**Remote Sets** - Blogpost on TOPLAP.org by GEIKHA 芸下☭](https://blog.toplap.org/2024/05/27/remote-sets-livecoding-in-its-purest-form/)
 
 # ✨ Inspiration from other performances
 
