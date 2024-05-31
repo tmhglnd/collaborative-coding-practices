@@ -8,6 +8,8 @@ A repository with suggestions, repertoire, tools and exercises for collaborating
 - [Exercises](#-exercises)
 - [Collaborative Editors](#-collaborative-editors)
 - [Repertoire](#-repertoire)
+- [Further Reading](#-further-reading)
+- [Inspiration](#-inspiration-from-other-performances)
 - [Useful Tools](#-other-useful-tools)
 
 # 📟 Setup
@@ -211,3 +213,9 @@ OS: `Mac`
 Wide variety of software for NDI applications. The NDI Virtual Input is especially useful as virtual webcam device.
 
 OS: `Mac` `Windows`
+
+## Ableton Link
+
+- site: https://www.ableton.com/en/link/products/
+
+Link is a technology that keeps devices in time over a local network. Link is part of Ableton Live, and also comes as a built-in feature of other software and hardware for music making. View the site for all available platforms/apps.
