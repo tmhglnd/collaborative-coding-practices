@@ -1,6 +1,6 @@
 # 👩🏻‍💻🧑🏼‍💻👩🏽‍💻👨🏾‍💻 Collaborative Coding Practices
 
-A repository with suggestions, repertoire, tools and exercises for collaborating coders that use live coding to make music. Part of the *Collaborative Coding Music in Flok* workshop by Lina Bautista and Timo Hoogland first presented at [/* VIU */ Festival 2024](https://toplap.cat/posts/viu-2024/).
+A repository with suggestions, repertoire, tools and exercises for collaborating coders that use live coding to make music. Part of the *Collaborative Coding Music in Flok* workshop by Lina Bautista and Timo Hoogland, first presented at [/* VIU */ Festival 2024](https://toplap.cat/posts/viu-2024/).
 
 # 📖 Table of Content
 
@@ -14,14 +14,14 @@ A repository with suggestions, repertoire, tools and exercises for collaborating
 
 # 📟 Setup
 
-First we setup the collaborative coding environment. The editor you choose in the future can depend on personal preference and the language you like to code with, but for this workshop we use [**Flok**](#flok). Flok allows for using Foxdot, Mercury, Sardine, Strudel, SuperCollider and Tidal.
+First we setup the collaborative coding environment. The editor you choose in the future can depend on personal preferences and the language you like to code with too, but for this workshop we use [**Flok**](#flok). Flok allows for using the languages Foxdot, Mercury, Sardine, Strudel, SuperCollider and Tidal.
 
 1. Go to [https://flok.cc](https://flok.cc)
 2. Choose a username
 3. Share the url with your collaborator
 4. In the top-left menu choose the language you want to use
 5. If you choose `Mercury-web` or `Strudel` you are ready to go!
-5. If you use a language that is not browser based (eg. Tidal, SC, Foxdot) you have to setup the `REPL` via the terminal to connect your editors output with your interpreter and sound engine.
+5. If you use a language that is not browser based (eg. Tidal, SC, Foxdot) you have to setup the `REPL` via the terminal to connect your editors' output with your interpreter and sound engine.
 	- Click `REPLs` in the top-right corner. 
 	- Copy the command and paste/run it in the terminal (you need to have `npm`/`npx` installed from [NodeJS](https://nodejs.org/en))
 	- Start your environment and check if the code is coming in through the OSC port.
@@ -31,19 +31,19 @@ First we setup the collaborative coding environment. The editor you choose in th
 
 ## Exercise 1
 
-Code only 2 instruments/sounds and only work one instrument individually (so in parallel). Listen/read what the other is doing and adapt your code based on that. Divide the arrangement in a way that makes sense for both of you, for example one person can work on a rhythmic/percussive sound while the other makes a bass or melodic instrument.
+Code only 2 instruments/sounds and only work on one instrument per person (so in parallel). Carefully listen & read what the other is doing and adapt your code based on that. Divide the arrangement of the music in a way that makes sense for you both. For example one person can work on a rhythmic/percussive sound, while the other makes a bass or melodic instrument.
 
 ## Exercise 2
 
-In this exercise one of you two will be the *"initiator"* of a new instrument/sound, and the other will be the *"adjuster"*. The *initiator* will code new ideas and evaluate. After it is evaluated and you hear the result the *adjuster* will change the value or function of the thing that was just coded to something else, introducing some slight variation on the original idea.
+In this exercise one of you will be the *"initiator"* of a new instrument/sound, while the other will be the *"adjuster"*. The *initiator* will code new ideas and evaluate them. After it is evaluated and you hear the result the *adjuster* will change the value or function of the thing that was just coded, introducing some slight variation on the original idea.
 
 ## Exercise 3
 
-Create a new instrument/sound from scratch and work on that code together, slowly changing the instrument to both your tastes. Don't remove each others ideas but build upon them. Accept decisions from the other even if you don't immediately like them.
+Create a new instrument/sound from scratch and work on that code together, slowly changing the instrument to both your tastes. Only, don't remove each others ideas but build upon them. Accept decisions from the other, also if you don't immediately like them.
 
 ## Exercise 4
 
-Continue with the instruments from above. It is quite common in live coding to evaluate after every little change. For this exercise one of you will be allowed to evaluate small changes in the instrument, while at the same time the other is make a lot of changes to the other instrument but wait till the best moment to evaluate introducing some radical changes in the composition. It can help to code things as a comment to avoid things being evaluated before they are ready.
+For this exercise you continue with the instruments from above. It is quite common in live coding to evaluate the code after every little change so you can hear the impact directly. However, for this exercise one of you will only be allowed to evaluate small changes in the instrument. At the same time the other has to make a lot of changes to another instrument, but wait till the best moment to evaluate introducing some radical changes in the composition. It could help to code things as a comment to avoid things being evaluated before they are ready to go.
 
 # 🛰 Collaborative Editors
 
@@ -115,6 +115,9 @@ Below is a list of repertoire from people collaborating on live coding via these
 - [**Estuary WeekendJam** - Over more than 160 jamsessions in Estuary streamed weekly in Eulerroom](https://www.youtube.com/playlist?list=PLMBIpibV-wQLvP7jitjnV9E61DfV11235)
 	- Using: Estuary, MiniTidal, Punctual
 
+- [**Damage Such** - Live at /* VUI */ Festival in Sala Vol ](https://youtu.be/7KH7fn4k8kE?si=fnD3A5u_uZOMrl9R&t=1501)
+	- Using: Flok, Mercury
+
 - [Enter your suggestion here](https://github.com/tmhglnd/collaborative-coding-practices/issues)
 
 # 📚 Further Reading
@@ -122,6 +125,8 @@ Below is a list of repertoire from people collaborating on live coding via these
 Below is a list of reading material that touches on the subject of collaborative coding and remote performances.
 
 - [**Remote Sets** - Blogpost on TOPLAP.org by GEIKHA 芸下☭](https://blog.toplap.org/2024/05/27/remote-sets-livecoding-in-its-purest-form/)
+
+- [**How To: Live Coding Jams** - Blogpost by TH4](https://th4music.net/how-to-live-coding-jams.html)
 
 # ✨ Inspiration from other performances
 
