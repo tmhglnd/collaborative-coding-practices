@@ -29,21 +29,35 @@ First we setup the collaborative coding environment. The editor you choose in th
 
 # 🕹 Exercises
 
+## Exercise 0
+
+*Start from scratch*
+
+Listen to a short 6-minute solo-jam from eachother. While one is typing the others are just listening to what this person is making. This will help you to get to know eachothers styles and strengths.
+
 ## Exercise 1
 
-Code only 2 instruments/sounds and only work on one instrument per person (so in parallel). Carefully listen & read what the other is doing and adapt your code based on that. Divide the arrangement of the music in a way that makes sense for you both. For example one person can work on a rhythmic/percussive sound, while the other makes a bass or melodic instrument.
+*Start from scratch*
+
+Code only one instruments/sound per person and only work on your individual sound (in parallel). Carefully listen & read what the others are doing and adapt your code based on that. Divide the arrangement of the music in a way that makes sense for you all. For example one person can work on a rhythmic/percussive sound, while the other makes a bass or melodic instrument. Think in terms of complementary sounds. You can devide an arrangement in many ways, percussive-tonal, dense-sparse, staccato-legato, high-low, and much more.
 
 ## Exercise 2
 
-In this exercise one of you will be the *"initiator"* of a new instrument/sound, while the other will be the *"adjuster"*. The *initiator* will code new ideas and evaluate them. After it is evaluated and you hear the result the *adjuster* will change the value or function of the thing that was just coded, introducing some slight variation on the original idea.
-
-## Exercise 3
+*Continue with the code you wrote above*
 
 Create a new instrument/sound from scratch and work on that code together, slowly changing the instrument to both your tastes. Only, don't remove each others ideas but build upon them. Accept decisions from the other, also if you don't immediately like them.
 
+## Exercise 3
+
+*Start from scratch*
+
+In this exercise one of you will be the *"initiator"* of a new instrument/sound, while the other will be the *"adjuster"*. The *initiator* will code new ideas and execute them. After evaluating and listening to the result, the *adjuster* will start to delete and change the values or functions of the thing that was just coded, introducing variations on the original idea. Don't feel bad about deleting each others work, allow ["code to die"](https://www.pastagang.cc/blog/let-code-die/).
+
 ## Exercise 4
 
-For this exercise you continue with the instruments from above. It is quite common in live coding to evaluate the code after every little change so you can hear the impact directly. However, for this exercise one of you will only be allowed to evaluate small changes in the instrument. At the same time the other has to make a lot of changes to another instrument, but wait till the best moment to evaluate introducing some radical changes in the composition. It could help to code things as a comment to avoid things being evaluated before they are ready to go.
+*For this exercise you continue with the instruments from above.*
+
+It is quite common in live coding performances to evaluate the code after every little change, so you can hear the results directly. However, for this exercise one of you will only be allowed to evaluate small changes in the instrument. At the same time the other has to make a lot of changes to another instrument, but wait till the best moment to evaluate introducing some radical changes in the composition. It could help to code things as a comment to avoid things being evaluated before they are ready to go.
 
 # 🛰 Collaborative Editors
 
@@ -67,6 +81,16 @@ Languages (with repl): `Foxdot` `Mercury` `Sardine` `SClang` `TidalCycles`
 Estuary is a platform for collaboration and learning through live coding. It enables you to experiment with sound, music, and visuals in a web browser. Estuary brings together a curated collection of live coding languages in a single environment, without the requirement to install software (other than a web browser), and with support for networked ensembles (whether in the same room or distributed around the world). 
 
 Languages (in browser): `MiniTidal` `Punctual` `Hydra` `CineCer0` `LocoMotion` `Seis8s` `TimeNot` `TransMit`
+
+## Nudel
+
+- site: https://nudel.cc/
+- github: https://github.com/pastagang/nudel
+- docs: https://github.com/pastagang/nudel?tab=readme-ov-file#nudel
+
+nudel was born out of curiosity, to see if flok could be treated as a protocol, where different web clients access the same session.
+
+Languages (in browser): `Hydra` `Strudel` `KabelSalat` `Shader` `JS`
 
 ## Troop
 
