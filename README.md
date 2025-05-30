@@ -142,6 +142,9 @@ Below is a list of repertoire from people collaborating on live coding via these
 - [**Damage Such** - Live at /* VUI */ Festival in Sala Vol ](https://youtu.be/7KH7fn4k8kE?si=fnD3A5u_uZOMrl9R&t=1501)
 	- Using: Flok, Mercury
 
+- [**RGGTRN**](https://rggtrn.github.io/)
+	- Using: Supercollider 
+
 - [Enter your suggestion here](https://github.com/tmhglnd/collaborative-coding-practices/issues)
 
 # 📚 Further Reading
