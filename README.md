@@ -29,17 +29,19 @@ First we setup the collaborative coding environment. For this workshop we use [*
 
 # 🕹 Exercises
 
+**One rule: No pasting code!**
+
 ## Exercise 0
 
 *Start from scratch*
 
-Listen to a short 6-minute solo-jam from eachother. While one is typing the others are just listening to what this person is making. This will help you to get to know eachothers styles and strengths.
+Listen to a short 3-minute solo-jam from eachother. While one is typing the others are just listening to what this person is making. This will help you to get to know eachothers styles and strengths.
 
 ## Exercise 1
 
 *Start from scratch*
 
-Code only one instruments/sound per person and only work on your individual sound (in parallel). Carefully listen & read what the others are doing and adapt your code based on that. Divide the arrangement of the music in a way that makes sense for you all. For example one person can work on a rhythmic/percussive sound, while the other makes a bass or melodic instrument. Think in terms of complementary sounds. You can devide an arrangement in many ways, percussive-tonal, dense-sparse, staccato-legato, high-low, and much more.
+Code only one instruments/sound per person and only work on your individual sound (in parallel). Carefully listen & read what the others are doing and adapt your code based on that. Divide the arrangement of the music in a way that makes sense for you all. For example one person can work on a rhythmic/percussive sound, while the other makes a bass or melodic instrument. Think in terms of complementary sounds. You can divide an arrangement in many ways, percussive-tonal, dense-sparse, staccato-legato, high-low, and much more.
 
 ## Exercise 2
 
@@ -49,7 +51,7 @@ Create a new instrument/sound from scratch and work on that code together, slowl
 
 ## Exercise 3
 
-*Start from scratch*
+*Start from scratch or continue with the code above*
 
 In this exercise one of you will be the *"initiator"* of a new instrument/sound, while the other will be the *"adjuster"*. The *initiator* will code new ideas and execute them. After evaluating and listening to the result, the *adjuster* will start to delete and change the values or functions of the thing that was just coded, introducing variations on the original idea. Don't feel bad about deleting each others work, allow ["code to die"](https://www.pastagang.cc/blog/let-code-die/).
 
@@ -154,6 +156,10 @@ Below is a list of reading material that touches on the subject of collaborative
 - [**Remote Sets** - Blogpost on TOPLAP.org by GEIKHA 芸下☭](https://blog.toplap.org/2024/05/27/remote-sets-livecoding-in-its-purest-form/)
 
 - [**How To: Live Coding Jams** - Blogpost by TH4](https://th4music.net/how-to-live-coding-jams.html)
+
+- [**Bad Code Only** - Pastagang Blogpost](https://www.pastagang.cc/blog/bad-code-only/)
+
+- [**Let Code Die** - Pastagang Blogpost](https://www.pastagang.cc/blog/let-code-die/)
 
 # ✨ Inspiration from other performances
 
