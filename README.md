@@ -14,7 +14,7 @@ A repository with suggestions, repertoire, tools and exercises for collaborating
 
 # 📟 Setup
 
-First we setup the collaborative coding environment. The editor you choose in the future can depend on personal preferences and the language you like to code with too, but for this workshop we use [**Flok**](#flok). Flok allows for using the languages Foxdot, Mercury, Sardine, Strudel, SuperCollider and Tidal.
+First we setup the collaborative coding environment. For this workshop we use [**Flok**](#flok). Flok allows for using the languages Foxdot, Mercury, Sardine, Strudel, SuperCollider and Tidal. In the future you can choose a different editor depending on personal preferences and the language you like to code with. For a list of other collaborative editors see [Collaborative Editors](#-collaborative-editors).
 
 1. Go to [https://flok.cc](https://flok.cc)
 2. Choose a username
@@ -88,7 +88,7 @@ Languages (in browser): `MiniTidal` `Punctual` `Hydra` `CineCer0` `LocoMotion` `
 - github: https://github.com/pastagang/nudel
 - docs: https://github.com/pastagang/nudel?tab=readme-ov-file#nudel
 
-nudel was born out of curiosity, to see if flok could be treated as a protocol, where different web clients access the same session.
+Nudel was born out of curiosity, to see if Flok.cc could be treated as a protocol, where different web clients access the same session.
 
 Languages (in browser): `Hydra` `Strudel` `KabelSalat` `Shader` `JS`
 
